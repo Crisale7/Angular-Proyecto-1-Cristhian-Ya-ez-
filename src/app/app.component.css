@@ -1,0 +1,16 @@
+* {
+  margin: "0";
+  padding: "0";
+  box-sizing: border-box;
+}
+body {
+  margin-right: 25%;
+  margin-left: 25%;
+  width: 50%;
+  max-width: 50%;
+  min-width: 650px;
+  background-position: center;
+  width: 100%;
+  font-family: 'Balsamiq Sans';
+  
+}
